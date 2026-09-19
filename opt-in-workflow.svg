@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#ffffff"/>
+  <rect x="40" y="40" width="1120" height="820" fill="none" stroke="#111111" stroke-width="3"/>
+  <text x="70" y="100" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="bold" fill="#111111">Toll-Free SMS Opt-In Workflow</text>
+  <text x="70" y="150" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#333333">Business: Drew Sepeczi — Drew's AI phone assistant (+1 888 417 8537)</text>
+  <text x="70" y="180" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#334155">Website: https://drewsepeczi.xyz</text>
+  <rect x="70" y="210" width="1060" height="90" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="3"/>
+  <text x="90" y="265" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#0f172a">1. Caller reaches Drew's AI missed-call assistant on +18884178537</text>
+  <rect x="70" y="320" width="1060" height="90" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="3"/>
+  <text x="90" y="375" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#0f172a">2. VERBAL opt-in: caller asks to be texted / receive a call summary</text>
+  <rect x="70" y="430" width="1060" height="90" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="3"/>
+  <text x="90" y="485" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#0f172a">3. Assistant confirms the destination number out loud before sending</text>
+  <rect x="70" y="540" width="1060" height="90" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="3"/>
+  <text x="90" y="595" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#0f172a">4. SMS only for call summaries, urgent alerts, or pet-intake notes</text>
+  <rect x="70" y="650" width="1060" height="90" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="3"/>
+  <text x="90" y="705" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#0f172a">5. Messages include opt-out; reply STOP to unsubscribe / HELP for help</text>
+  <text x="70" y="790" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#111111">Opt-in type: VERBAL (phone conversation). No marketing blast list.</text>
+  <text x="70" y="835" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#334155">Sample: "Drew — missed call from +1… Summary: … Reply STOP to opt out."</text>
+</svg>
